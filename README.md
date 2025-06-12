@@ -1,4 +1,4 @@
-Movie Dataset Cleaning, Validation, and Privacy Pipeline
+## Movie Dataset Cleaning, Validation, and Privacy Pipeline
 ## Dataset Description
 
 This dataset contains detailed information about various movies including:
